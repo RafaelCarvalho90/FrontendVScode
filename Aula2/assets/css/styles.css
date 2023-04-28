@@ -1,0 +1,19 @@
+p{
+    text-align: justify;
+    font-size: 14px;
+    color:rgba(0, 128, 0, 0.404);
+}
+
+body{
+    background-image: url(../images/background.jpg);
+    background-size: 1024 *768;
+   
+}
+
+a1{
+
+    color: blueviolet;
+
+}
+
+
