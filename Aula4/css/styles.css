@@ -1,0 +1,61 @@
+H1{
+    color:red;
+}
+
+@media(min-width:576px){
+    h1 {
+        color: black;
+        font-size: 50px;
+    }
+}
+ @media(min-width:768px){
+        h1 {
+            color: rgb(185, 206, 110);
+            font-size: 50px;
+        }
+}
+.meu-botao{
+    background-color: aquamarine;
+    color: brown;
+    margin: 0;
+}
+/* .container,.container-fluid{
+    font-size: 20px;
+    background-color: black;
+    color:white;
+    font-weight: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+} */
+
+.container{
+    border:5px dotted blue;
+    padding: 10px;
+    
+
+}
+
+.row{
+    border:5px solid purple;
+    margin: 0px;
+}
+.display-flex{
+    display: flex ;
+    height: 200px;
+    width: 100%;
+    background-color: rgb(192, 6, 99);
+    margin-top: 15px;
+    align-items: center;
+}
+.minha-div{
+
+    height: 80px;
+    width: 80px;
+    background-color: antiquewhite;
+    border: 1px solid blueviolet;
+    text-align: center;
+    border-right: 5px;
+    padding-right: 4px;
+    margin-right: 5px;
+    
+}
