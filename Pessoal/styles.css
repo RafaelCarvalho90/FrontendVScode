@@ -4,36 +4,55 @@ body{
 
     background-size: auto;
 }
+.container{
+    width: auto;
+    background-color: aliceblue;
+    display: flex;
+    position: sticky;
+    top:63px;
+
+}
 .container1{
+    
+    background-color: aliceblue;
     text-align: center;
-    background-color: rgba(226, 226, 201, 0.233);
     color: black;
     font-size: 55px;
-
+    position: sticky;
+    top: 0px;
 }
 
 .bar1{
+    background-color: aliceblue;
     color:black;
     text-align: center;
-    position: sticky; 
     top: 5px;
     background-color: rgba(214, 255, 228, 0.178);
+    display: flex;
  
 }
 #b1{
-    margin-left: 5px;
+    
+    margin-left: 0px;
     text-align: start;
     display: inline-block;
     font-size: 25px;
 }
 #b2{
-    margin-left: 10px;
+    margin-left: 20px;
     text-align: start;
     display: inline-flex; 
     font-size: 25px;
 }
 #b3{
-    margin-left: 10px;
+    margin-left: 15px;
+    text-align: start;
+    display: inline-flex;
+    font-size: 25px;
+    
+}
+#b4{
+    margin-left: 15px;
     text-align: start;
     display: inline-flex;
     font-size: 25px;
