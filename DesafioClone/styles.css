@@ -111,11 +111,11 @@ position: absolute;
     border-radius: 5px;
     width: 100px;
     height: 50px;
-    background-color: rgb(24, 131, 224);
-    align-items: end;    
+    background-color: rgb(24, 131, 224); 
     display:inline-flex;
-    justify-content: start;
+    justify-content: space-between;
     margin-left: 5px;
     margin-bottom: 15%;
+
 }
 

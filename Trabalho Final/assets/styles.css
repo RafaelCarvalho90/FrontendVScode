@@ -1,0 +1,89 @@
+
+body{ 
+    background-color: rgb(2, 41, 92);
+     background-size: auto;
+ }
+ .container{
+     width: auto;
+     background-color: rgb(13, 138, 248);
+     display: flex;
+     position: sticky;
+     top:0px;
+     justify-content: space-evenly;
+ }
+ .container1{
+     background-color: rgba(2, 72, 133, 0.301);
+     background-image: url(./images/back.jpeg);
+     background-position: center;
+     height: 100vh;
+     width: auto;
+     text-align: center;
+     color: black;
+     font-size: 55px;
+     position: sticky;    
+     flex-direction: column;
+ }
+ 
+ .bar1{
+     background-color: rgb(2, 18, 32);
+     color:black;
+     text-align: center;
+     top: 5px;
+     background-color: rgba(214, 255, 228, 0.178);
+     display: flex;
+ }
+ #b1{ 
+     background-color: rgba(13, 138, 248, 0.541);
+     margin-left: 0px;
+     text-align: start;
+     display: inline-flex;
+     font-size: 25px;
+ }
+ 
+ #b2{
+     background-color: rgba(13, 138, 248, 0.541);
+     margin-left: 20px;
+     text-align: start;
+     display: inline-flex; 
+     font-size: 25px;
+ }
+ #b3{
+     background-color: rgba(13, 138, 248, 0.541);
+     margin-left: 15px;
+     text-align: start;
+     display: inline-flex;
+     font-size: 25px;
+     
+ }
+ #b4{
+     background-color: rgba(13, 138, 248, 0.541);
+     margin-left: 15px;
+     text-align: start;
+     display: inline-flex;
+     font-size: 25px;
+     
+ }
+ .art1{
+     width: 600px;
+     height: 300px;
+     background-color: rgba(245, 245, 220, 0.425);
+     font-size: 20px;
+     text-align: center;
+     text-align: justify;
+ }
+ #ar0{
+     text-align: center;
+    justify-items: center;
+    font-size: 15px;
+     display: inline-flex;
+ }
+ #ar1{
+     text-align: center;
+     font-size: 15px;
+     display: inline-flex;
+ }
+ .art99{
+     display: flex;
+     flex-direction: column;
+ }
+ 
